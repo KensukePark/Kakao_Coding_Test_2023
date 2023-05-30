@@ -2,4 +2,5 @@
 2023 KAKAO BLIND RECRUITMENT 1차 코딩테스트
 
 # Environment
-Python 3
+Python 3 <br>
+Python's standard library <br>
